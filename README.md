@@ -53,8 +53,8 @@ End-to-End Data Analysis & Machine Learning This project delivers a comprehensiv
 ### 📊 [Project  : IDnews-Scraper Indonesia](https://github.com/dianpransisko/IDnews-Scraper)
 An automated news monitoring system specifically engineered to aggregate, archive, and visualize real-time news data from a diverse range of Indonesian digital media outlets, tailored to support advanced data analysis
 `Supabase` `postgresql` `Python`
----
 
+---
 
 ### 📊 [Project 4 ](#)
 Built dashboard to monitor [KPI/metrics], enabling faster and more accurate decision-making.  
