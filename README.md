@@ -11,7 +11,7 @@ Identified 1,136 'Champions' and 637 'At Risk' customers to optimize marketing R
 `PostgreSQL` `Python` `Power BI`
 
 ---
-### 📊 [ Project 2 : Data Analyst](https://github.com/dianpransisko/Data-Analist-Porto)
+### 📊 [ Project 2 : Analyzes employee absenteeism](https://github.com/dianpransisko/Data-Analist-Porto)
 This project analyzes employee absenteeism patterns using **categorical cohort analysis** and **statistical sampling techniques** to identify high-risk groups, hidden anomalies, and actionable HR insights.
 The analysis uncovers the root causes behind **13,333 lost working hours** and provides **data-driven (evidence-based) recommendations** to improve workforce productivity and reporting accuracy.
 - **Data Analysis Techniques**
