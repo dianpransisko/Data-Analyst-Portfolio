@@ -23,6 +23,9 @@ The analysis uncovers the root causes behind **13,333 lost working hours** and p
   - HR Analytics  
 ---
 
+### 📊 [Project 3 : Covid-19 - Indonesia ](https://github.com/dianpransisko/COVID-19-Indonesia-End-to-End-Data-Analysis---Machine-Learning)
+Identified 1,136 'Champions' and 637 'At Risk' customers to optimize marketing ROI.
+`PostgreSQL` `Python`
 
 ### 📊 [Project 3 ](#)
 Built dashboard to monitor [KPI/metrics], enabling faster and more accurate decision-making.  
