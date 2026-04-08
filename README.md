@@ -26,8 +26,14 @@ Business Skills
 - User Research & Behavior Analysis
 - Data Storytelling
 - Government Tech Evaluation
-  
 
+---
+
+### 📊 [Project  : Covid-19 - Indonesia ](https://github.com/dianpransisko/COVID-19-Indonesia-End-to-End-Data-Analysis---Machine-Learning)
+End-to-End Data Analysis & Machine Learning This project delivers a comprehensive analysis of the COVID-19 pandemic's evolution in Indonesia (March 2020 – September 2022). It covers the full data lifecycle—from advanced PostgreSQL data wrangling and statistical analysis to Machine Learning implementation for regional risk stratification and fatality prediction.
+`PostgreSQL` `Python`
+
+---
 ### 📊 [Project  : E-Commerce RFM Analysis](https://github.com/dianpransisko/Data-Analyst-Proj)
 Identified 1,136 'Champions' and 637 'At Risk' customers to optimize marketing ROI.
 `PostgreSQL` `Python` `Power BI`
@@ -45,9 +51,7 @@ The analysis uncovers the root causes behind **13,333 lost working hours** and p
   - HR Analytics  
 ---
 
-### 📊 [Project  : Covid-19 - Indonesia ](https://github.com/dianpransisko/COVID-19-Indonesia-End-to-End-Data-Analysis---Machine-Learning)
-End-to-End Data Analysis & Machine Learning This project delivers a comprehensive analysis of the COVID-19 pandemic's evolution in Indonesia (March 2020 – September 2022). It covers the full data lifecycle—from advanced PostgreSQL data wrangling and statistical analysis to Machine Learning implementation for regional risk stratification and fatality prediction.
-`PostgreSQL` `Python`
+
 
 ---
 ### 📊 [Project  : IDnews-Scraper Indonesia](https://github.com/dianpransisko/IDnews-Scraper)
