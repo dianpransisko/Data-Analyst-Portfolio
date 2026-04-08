@@ -6,9 +6,9 @@ This repository showcases a collection of Data Analyst projects focused on **dat
 
 ## 🚀 Featured Projects Data Analyst
 
-### 📊 [Project 1](#)
-Developed data analysis solution to solve [business problem], resulting in [measurable impact].  
-`Python` `SQL` `Power BI`
+### 📊 [E-Commerce RFM Analysis](https://github.com/dianpransisko/Data-Analyst-Proj)
+Identified 1,136 'Champions' and 637 'At Risk' customers to optimize marketing ROI.
+`PostgreSQL` `Python` `Power BI`
 
 ---
 
