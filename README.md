@@ -1,7 +1,7 @@
 # 📊 Data Analyst Portfolio : Dian Pransisko Harahap
 <img width="1511" height="850" alt="data-analytics-tutorial-69921091148807_l" src="https://github.com/user-attachments/assets/944aaec1-c267-40cf-8b50-3463fa527db7" />
 This repository showcases a collection of Data Analyst projects focused on **data-driven decision making, business insights, and process automation** using various analytical and visualization tools.
-Tolls : 
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
