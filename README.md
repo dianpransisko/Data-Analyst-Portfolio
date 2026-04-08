@@ -15,6 +15,19 @@ Tolls :
 
 ## 🚀 Featured Projects Data Analyst
 
+### 📊 [ Project  : Analyzes employee absenteeism](https://journals.upi-yai.ac.id/index.php/ikraith-informatika/article/view/6286)
+This project evaluates the adoption and actual usage of the Regional Government Information System (SIPD) using the Technology Acceptance Model (TAM). The analysis measures key variables such as Perceived Usefulness and Ease of Use among employees to identify drivers for digital transformation in local government.
+The study provides data-driven insights into system usability and user behavior, offering strategic recommendations to improve the effectiveness of regional development planning and evaluation.
+Data Analysis Techniques
+Quantitative Descriptive Analysis
+- **Technology Acceptance Model (TAM) Modeling**
+`Ms. Excel (Data Processing)`, `Survey Tools`
+Business Skills
+- User Research & Behavior Analysis
+- Data Storytelling
+- Government Tech Evaluation
+  
+
 ### 📊 [Project  : E-Commerce RFM Analysis](https://github.com/dianpransisko/Data-Analyst-Proj)
 Identified 1,136 'Champions' and 637 'At Risk' customers to optimize marketing ROI.
 `PostgreSQL` `Python` `Power BI`
@@ -40,21 +53,6 @@ End-to-End Data Analysis & Machine Learning This project delivers a comprehensiv
 ### 📊 [Project  : IDnews-Scraper Indonesia](https://github.com/dianpransisko/IDnews-Scraper)
 An automated news monitoring system specifically engineered to aggregate, archive, and visualize real-time news data from a diverse range of Indonesian digital media outlets, tailored to support advanced data analysis
 `Supabase` `postgresql` `Python`
-
----
-
-### 📊 [ Project  : Analyzes employee absenteeism](https://github.com/dianpransisko/Data-Analist-Porto)
-This project evaluates the adoption and actual usage of the Regional Government Information System (SIPD) using the Technology Acceptance Model (TAM). The analysis measures key variables such as Perceived Usefulness and Ease of Use among employees to identify drivers for digital transformation in local government.
-The study provides data-driven insights into system usability and user behavior, offering strategic recommendations to improve the effectiveness of regional development planning and evaluation.
-Data Analysis Techniques
-Quantitative Descriptive Analysis
-- **Technology Acceptance Model (TAM) Modeling**
-`Ms. Excel (Data Processing)`, `Survey Tools`
-
-Business Skills
-- User Research & Behavior Analysis
-- Data Storytelling
-- Government Tech Evaluation
 ---
 
 
