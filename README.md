@@ -14,7 +14,9 @@ This repository showcases a collection of Data Analyst projects focused on **dat
 ---
 
 ## 🚀 Featured Projects Data Analyst
-
+---
+🎯 E-GOVERMENT FOCUSED 🎯
+---
 ### 📊 [ Project  : Analysis of SIPD Acceptance at Bappeda Bulungan Regency ( Kalimantan ) Using the Technology Acceptance Model Method](https://journals.upi-yai.ac.id/index.php/ikraith-informatika/article/view/6286)
 This project evaluates the adoption and actual usage of the Regional Government Information System (SIPD) using the Technology Acceptance Model (TAM). The analysis measures key variables such as Perceived Usefulness and Ease of Use among employees to identify drivers for digital transformation in local government.
 The study provides data-driven insights into system usability and user behavior, offering strategic recommendations to improve the effectiveness of regional development planning and evaluation.
@@ -27,13 +29,19 @@ Business Skills
 - Data Storytelling
 - Government Tech Evaluation
 
----
+### 📊 [Project  : IDnews-Scraper Indonesia](https://github.com/dianpransisko/IDnews-Scraper)
+An automated news monitoring system specifically engineered to aggregate, archive, and visualize real-time news data from a diverse range of Indonesian digital media outlets, tailored to support advanced data analysis
+`Supabase` `postgresql` `Python`
 
 ### 📊 [Project  : Covid-19 - Indonesia ](https://github.com/dianpransisko/COVID-19-Indonesia-End-to-End-Data-Analysis---Machine-Learning)
 End-to-End Data Analysis & Machine Learning This project delivers a comprehensive analysis of the COVID-19 pandemic's evolution in Indonesia (March 2020 – September 2022). It covers the full data lifecycle—from advanced PostgreSQL data wrangling and statistical analysis to Machine Learning implementation for regional risk stratification and fatality prediction.
 `PostgreSQL` `Python`
 
 ---
+---
+🎯 EMPLOYEE FOCUSED 🎯
+---
+
 ### 📊 [Project  : E-Commerce RFM Analysis](https://github.com/dianpransisko/Data-Analyst-Proj)
 Identified 1,136 'Champions' and 637 'At Risk' customers to optimize marketing ROI.
 `PostgreSQL` `Python` `Power BI`
@@ -52,12 +60,6 @@ The analysis uncovers the root causes behind **13,333 lost working hours** and p
 ---
 
 
-
----
-### 📊 [Project  : IDnews-Scraper Indonesia](https://github.com/dianpransisko/IDnews-Scraper)
-An automated news monitoring system specifically engineered to aggregate, archive, and visualize real-time news data from a diverse range of Indonesian digital media outlets, tailored to support advanced data analysis
-`Supabase` `postgresql` `Python`
-
 ---
 
 ### 📊 [Project 4 ](#)
@@ -71,4 +73,4 @@ Automated data processing pipeline to reduce manual work and increase efficiency
 `Python` `Automation` `ETL`
 
 ---
-🎯 [Back to my Daskboard Profile](https://github.com/dianpransisko)
+ [Back to my Daskboard Profile](https://github.com/dianpransisko)
