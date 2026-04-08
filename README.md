@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio : Dian Pransisko Harahap
+# 📊 Data Analyst Portofolio | Dian Pransisko Harahap | Data Analyst
 <img width="1511" height="850" alt="data-analytics-tutorial-69921091148807_l" src="https://github.com/user-attachments/assets/944aaec1-c267-40cf-8b50-3463fa527db7" />
 This repository showcases a collection of Data Analyst projects focused on **data-driven decision making, business insights, and process automation** using various analytical and visualization tools.
 
