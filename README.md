@@ -46,7 +46,7 @@ End-to-End Data Analysis & Machine Learning This project delivers a comprehensiv
 Identified 1,136 'Champions' and 637 'At Risk' customers to optimize marketing ROI.
 `PostgreSQL` `Python` `Power BI`
 
-### 📊 [ Project  : Analyzes employee absenteeism](https://github.com/dianpransisko/Data-Analist-Porto)
+### 📊 [ Project  : Analyzes employee absenteeism](https://github.com/dianpransisko/Absenteeism-Analysis)
 This project analyzes employee absenteeism patterns using **categorical cohort analysis** and **statistical sampling techniques** to identify high-risk groups, hidden anomalies, and actionable HR insights.
 The analysis uncovers the root causes behind **13,333 lost working hours** and provides **data-driven (evidence-based) recommendations** to improve workforce productivity and reporting accuracy.
 - **Data Analysis Techniques**
