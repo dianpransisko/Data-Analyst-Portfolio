@@ -14,6 +14,7 @@ This repository showcases a collection of Data Analyst projects focused on **dat
 ---
 
 ## 🚀 Featured Projects Data Analyst
+
 ---
 🎯 E-GOVERMENT FOCUSED 🎯
 ---
@@ -38,15 +39,13 @@ End-to-End Data Analysis & Machine Learning This project delivers a comprehensiv
 `PostgreSQL` `Python`
 
 ---
----
-🎯 EMPLOYEE FOCUSED 🎯
+🎯 BUSINESS & EMPLOYEE FOCUSED 🎯
 ---
 
 ### 📊 [Project  : E-Commerce RFM Analysis](https://github.com/dianpransisko/Data-Analyst-Proj)
 Identified 1,136 'Champions' and 637 'At Risk' customers to optimize marketing ROI.
 `PostgreSQL` `Python` `Power BI`
 
----
 ### 📊 [ Project  : Analyzes employee absenteeism](https://github.com/dianpransisko/Data-Analist-Porto)
 This project analyzes employee absenteeism patterns using **categorical cohort analysis** and **statistical sampling techniques** to identify high-risk groups, hidden anomalies, and actionable HR insights.
 The analysis uncovers the root causes behind **13,333 lost working hours** and provides **data-driven (evidence-based) recommendations** to improve workforce productivity and reporting accuracy.
@@ -57,20 +56,11 @@ The analysis uncovers the root causes behind **13,333 lost working hours** and p
   - Data Storytelling  
   - Insight Generation  
   - HR Analytics  
----
-
-
----
 
 ### 📊 [Project 4 ](#)
 Built dashboard to monitor [KPI/metrics], enabling faster and more accurate decision-making.  
 `Tableau` `Data Visualization` `Business Intelligence`
 
----
-
-### 📊 [Project 4](#)
-Automated data processing pipeline to reduce manual work and increase efficiency.  
-`Python` `Automation` `ETL`
 
 ---
  [Back to my Daskboard Profile](https://github.com/dianpransisko)
