@@ -16,7 +16,7 @@ This repository showcases a collection of Data Analyst projects focused on **dat
 ## 🚀 Featured Projects Data Analyst
 
 ---
-🎯 E-GOVERMENT FOCUSED 🎯
+🎯 E-GOVERMENT FOCUSED
 ---
 ### 📊 [ Project  : Analysis of SIPD Acceptance at Bappeda Bulungan Regency ( Kalimantan ) Using the Technology Acceptance Model Method](https://journals.upi-yai.ac.id/index.php/ikraith-informatika/article/view/6286)
 This project evaluates the adoption and actual usage of the Regional Government Information System (SIPD) using the Technology Acceptance Model (TAM). The analysis measures key variables such as Perceived Usefulness and Ease of Use among employees to identify drivers for digital transformation in local government.
@@ -39,7 +39,7 @@ End-to-End Data Analysis & Machine Learning This project delivers a comprehensiv
 `PostgreSQL` `Python`
 
 ---
-🎯 BUSINESS & EMPLOYEE FOCUSED 🎯
+🎯 BUSINESS & EMPLOYEE FOCUSED 
 ---
 
 ### 📊 [Project  : E-Commerce RFM Analysis](https://github.com/dianpransisko/Data-Analyst-Proj)
@@ -58,8 +58,7 @@ The analysis uncovers the root causes behind **13,333 lost working hours** and p
   - HR Analytics  
 
 ### 📊 [Project 4 ](#)
-Built dashboard to monitor [KPI/metrics], enabling faster and more accurate decision-making.  
-`Tableau` `Data Visualization` `Business Intelligence`
+
 
 
 ---
