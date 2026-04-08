@@ -27,9 +27,11 @@ The analysis uncovers the root causes behind **13,333 lost working hours** and p
 End-to-End Data Analysis & Machine Learning This project delivers a comprehensive analysis of the COVID-19 pandemic's evolution in Indonesia (March 2020 – September 2022). It covers the full data lifecycle—from advanced PostgreSQL data wrangling and statistical analysis to Machine Learning implementation for regional risk stratification and fatality prediction.
 `PostgreSQL` `Python`
 
-### 📊 [Project 3 ](#)
-Built dashboard to monitor [KPI/metrics], enabling faster and more accurate decision-making.  
-`Tableau` `Data Visualization` `Business Intelligence`
+---
+### 📊 [Project 4 : IDnews-Scraper Indonesia](https://github.com/dianpransisko/IDnews-Scraper)
+An automated news monitoring system specifically engineered to aggregate, archive, and visualize real-time news data from a diverse range of Indonesian digital media outlets, tailored to support advanced data analysis
+`Supabase` `postgresql` `Python`
+
 ---
 
 ### 📊 [Project 4 ](#)
@@ -43,5 +45,4 @@ Automated data processing pipeline to reduce manual work and increase efficiency
 `Python` `Automation` `ETL`
 
 ---
-
-[Back to my Daskboard Profile](https://github.com/dianpransisko)
+🎯 [Back to my Daskboard Profile](https://github.com/dianpransisko)
