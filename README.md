@@ -15,7 +15,7 @@ Tolls :
 
 ## 🚀 Featured Projects Data Analyst
 
-### 📊 [ Project  : Analyzes employee absenteeism](https://journals.upi-yai.ac.id/index.php/ikraith-informatika/article/view/6286)
+### 📊 [ Project  : Analysis of SIPD Acceptance at Bappeda Bulungan Regency ( Kalimantan ) Using the Technology Acceptance Model Method](https://journals.upi-yai.ac.id/index.php/ikraith-informatika/article/view/6286)
 This project evaluates the adoption and actual usage of the Regional Government Information System (SIPD) using the Technology Acceptance Model (TAM). The analysis measures key variables such as Perceived Usefulness and Ease of Use among employees to identify drivers for digital transformation in local government.
 The study provides data-driven insights into system usability and user behavior, offering strategic recommendations to improve the effectiveness of regional development planning and evaluation.
 Data Analysis Techniques
